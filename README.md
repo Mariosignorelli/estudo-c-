@@ -1,2 +1,2 @@
-# estudo-c-
+# estudo-c++
 Estudo do c++ uni9
