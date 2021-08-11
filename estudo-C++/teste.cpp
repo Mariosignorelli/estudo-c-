@@ -1,7 +1,5 @@
-#include <istream>
-using namespace std;
-int main(int argc, char const *argv[])
-{
-    cout<<"Hello word";
-    return 0;
+#include<stdio.h>
+#include<stdlib.h>
+int main(){
+    printf("hello,Word.\n ");
 }

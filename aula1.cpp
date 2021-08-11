@@ -7,5 +7,6 @@ main()
    printf("Digite o valor de B");scanf("%d",&B);
    Soma= A+B;
    printf("A soma de A+B é = %d", Soma);
-   stytem("pause")
+   stytem("pause");
 }
+
