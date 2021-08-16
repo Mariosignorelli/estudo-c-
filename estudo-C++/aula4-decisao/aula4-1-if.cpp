@@ -7,10 +7,10 @@ int main()
       scanf("%c %c ", &a, &b);
    if (a < b)
    
-     printf("\n %c %c \n\n",a, b);
+     printf("\n\n %c %c \n\n",a, b);
 
       else
-      printf("\n %c %c \n\n",b, a);
+      printf("\n\n %c %c \n\n",b, a);
       
 system("pause");
 }
