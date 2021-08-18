@@ -1,7 +1,8 @@
 #include <stdio.h>
-        main();
+#include<stdlib.h>
+        main()
 {
-    while (1)
+    while ()
     {
         printf("\n\n\t\t menu teste\n\n");
         printf("\t\tA\t\t");
